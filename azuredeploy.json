@@ -6,7 +6,8 @@
             "type": "string",
             "metadata": {
                 "description": "Name of the storage account"
-            }
+            },
+            "defaultValue": "[uniqueString('az104lab1storage')]"
         }
     },
     "functions": [],
