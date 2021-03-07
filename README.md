@@ -1,4 +1,7 @@
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhiryamada%2Fdeploytest%2Fmaster%2Fazuredeploy.json?ptmpl=azuredeploy.parameters.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhiryamada%2Fdeploytest%2Fmaster%2Fazuredeploy.json?ptmpl=https%3A%2F%2Fraw.githubusercontent.com%2Fhiryamada%2Fdeploytest%2Fmaster%2Fazuredeploy.parameters.json)
+
+
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://deploy.azure.com/?repository=https://github.com/hiryamada/deploytest?ptmpl=azuredeploy.parameters.json)
 
 see https://docs.microsoft.com/ja-jp/azure/azure-resource-manager/templates/deploy-to-azure-button
 
